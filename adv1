@@ -1,0 +1,10066 @@
+{
+content: [
+{
+id: "5eb0ae8e",
+settings: {
+pafe_tooltip_content_image: {
+id: 1055,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-760.png"
+},
+pafe_particles_image: {
+id: 1056,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-761.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "1256921a",
+settings: {
+_column_size: 100,
+_inline_size: null,
+pafe_tooltip_content_image: {
+id: 1054,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-759.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "7d2669b7",
+settings: {
+image: {
+id: 491,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/Logo-3-1-2.png"
+},
+width: {
+unit: "%",
+size: 30,
+sizes: []
+},
+width_mobile: {
+unit: "%",
+size: 79,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1053,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-758.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image",
+elType: "widget"
+}
+],
+isInner: false,
+elType: "column"
+}
+],
+isInner: false,
+elType: "section"
+},
+{
+id: "52e81e56",
+settings: {
+background_background: "gradient",
+background_gradient_angle: {
+unit: "deg",
+size: 135,
+sizes: []
+},
+shape_divider_bottom: "mountains",
+shape_divider_bottom_width: {
+unit: "%",
+size: 138,
+sizes: []
+},
+shape_divider_bottom_height: {
+unit: "px",
+size: 40,
+sizes: []
+},
+shape_divider_bottom_negative: "yes",
+padding: {
+unit: "px",
+top: "0",
+right: "0",
+bottom: "0",
+left: "0",
+isLinked: false
+},
+__globals__: {
+background_color: "",
+background_color_b: ""
+},
+margin: {
+unit: "px",
+top: "",
+right: 0,
+bottom: "",
+left: 0,
+isLinked: true
+},
+shape_divider_bottom_width_mobile: {
+unit: "%",
+size: 300,
+sizes: []
+},
+shape_divider_bottom_height_mobile: {
+unit: "px",
+size: 79,
+sizes: []
+},
+background_color_b: "#FFEABA",
+shape_divider_bottom_flip: "yes",
+background_color: "#9E827C",
+background_image: {
+id: 493,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/textura-linhas-topo-1-1.png"
+},
+background_overlay_opacity: {
+unit: "px",
+size: 1,
+sizes: []
+},
+shape_divider_bottom_width_tablet: {
+unit: "%",
+size: 225,
+sizes: []
+},
+shape_divider_bottom_height_tablet: {
+unit: "px",
+size: 62,
+sizes: []
+},
+margin_mobile: {
+unit: "px",
+top: "",
+right: 0,
+bottom: "",
+left: 0,
+isLinked: true
+},
+padding_tablet: {
+unit: "px",
+top: "20",
+right: "20",
+bottom: "20",
+left: "20",
+isLinked: true
+},
+padding_mobile: {
+unit: "px",
+top: "0",
+right: "0",
+bottom: "0",
+left: "0",
+isLinked: false
+},
+_ha_condition_list: [
+{
+_id: "865f861",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+jet_parallax_layout_list: [
+{
+jet_parallax_layout_image: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_tablet: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_mobile: {
+url: "",
+id: ""
+},
+jet_parallax_layout_speed: {
+unit: "%",
+size: 50,
+sizes: []
+},
+jet_parallax_layout_type: "scroll",
+jet_parallax_layout_direction: "1",
+jet_parallax_layout_fx_direction: "fade-in",
+jet_parallax_layout_z_index: "",
+jet_parallax_layout_bg_x: 50,
+jet_parallax_layout_bg_y: 50,
+jet_parallax_layout_bg_size: "auto",
+jet_parallax_layout_animation_prop: "transform",
+jet_parallax_layout_on: [
+"desktop",
+"tablet"
+],
+_id: "ce57fd1"
+}
+],
+background_color_stop: {
+unit: "%",
+size: 36,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1073,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-786.png"
+},
+pafe_particles_image: {
+id: 1074,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-787.png"
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "4f4a2aef",
+settings: {
+_column_size: 100,
+_inline_size: null,
+_ha_condition_list: [
+{
+_id: "48a4957",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1072,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-785.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "16208081",
+settings: {
+space: {
+unit: "px",
+size: 10,
+sizes: []
+},
+space_tablet: {
+unit: "px",
+size: 10,
+sizes: []
+},
+space_mobile: {
+unit: "px",
+size: 0,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "b026ac1",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1057,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-762.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "spacer",
+elType: "widget"
+},
+{
+id: "2e01a7d",
+settings: {
+structure: "20",
+padding: {
+unit: "px",
+top: "0",
+right: "0",
+bottom: "0",
+left: "0",
+isLinked: false
+},
+_ha_condition_list: [
+{
+_id: "c6f9666",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+jet_parallax_layout_list: [
+{
+jet_parallax_layout_image: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_tablet: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_mobile: {
+url: "",
+id: ""
+},
+jet_parallax_layout_speed: {
+unit: "%",
+size: 50,
+sizes: []
+},
+jet_parallax_layout_type: "scroll",
+jet_parallax_layout_direction: "1",
+jet_parallax_layout_fx_direction: "fade-in",
+jet_parallax_layout_z_index: "",
+jet_parallax_layout_bg_x: 50,
+jet_parallax_layout_bg_y: 50,
+jet_parallax_layout_bg_size: "auto",
+jet_parallax_layout_animation_prop: "transform",
+jet_parallax_layout_on: [
+"desktop",
+"tablet"
+],
+_id: "44b81e0"
+}
+],
+pafe_tooltip_content_image: {
+id: 1067,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-776.png"
+},
+pafe_particles_image: {
+id: 1068,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-778.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "5882a002",
+settings: {
+_column_size: 50,
+_inline_size: null,
+content_position: "center",
+space_between_widgets: 0,
+margin: {
+unit: "px",
+top: "0",
+right: "0",
+bottom: "0",
+left: "0",
+isLinked: false
+},
+_ha_condition_list: [
+{
+_id: "f32070c",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+_inline_size_tablet: 60,
+pafe_tooltip_content_image: {
+id: 1064,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-773.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "68c19d11",
+settings: {
+title: "Descubra o poder da <u>Vitamina K2</u> combinada com o <b><u>TransResveratrol</u>!</b>",
+typography_typography: "custom",
+typography_font_family: "Lato",
+typography_font_size: {
+unit: "px",
+size: 40,
+sizes: []
+},
+typography_font_weight: "700",
+__globals__: {
+title_color: ""
+},
+typography_font_size_tablet: {
+unit: "px",
+size: 30,
+sizes: []
+},
+typography_font_size_mobile: {
+unit: "px",
+size: 27,
+sizes: []
+},
+align: "center",
+title_color: "#FFFFFF",
+typography_line_height: {
+unit: "em",
+size: 1.2,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "b320f95",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1058,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-763.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "heading",
+elType: "widget"
+},
+{
+id: "589fa796",
+settings: {
+space: {
+unit: "px",
+size: 10,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "df4e571",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1059,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-764.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "spacer",
+elType: "widget"
+},
+{
+id: "3451fc7a",
+settings: {
+title: "A tecnologia <b><u>AMERICANA</u></b> que devolve a beleza da sua pele!",
+title_color: "#FFFFFF",
+typography_typography: "custom",
+typography_font_family: "Lato",
+typography_font_size: {
+unit: "px",
+size: 24,
+sizes: []
+},
+typography_font_weight: "400",
+_ha_condition_list: [
+{
+_id: "9c972b0",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+typography_line_height: {
+unit: "em",
+size: 1.2,
+sizes: []
+},
+typography_font_size_tablet: {
+unit: "px",
+size: 24,
+sizes: []
+},
+typography_font_size_mobile: {
+unit: "px",
+size: 19,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1060,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-767.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "heading",
+elType: "widget"
+},
+{
+id: "115ebdc2",
+settings: {
+space: {
+unit: "px",
+size: 25,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "df4e571",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1061,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-769.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "spacer",
+elType: "widget"
+},
+{
+id: "6b37856b",
+settings: {
+icon_list: [
+{
+text: "Vitamina K2 + TransResveratrol + Ácido Hialurônico + Verisol + Retinol",
+selected_icon: {
+value: "fas fa-check-circle",
+library: "fa-solid"
+},
+_id: "9305dde",
+link: {
+url: "",
+is_external: "",
+nofollow: "",
+custom_attributes: ""
+}
+},
+{
+text: "Auxilia na Hidratação da pele",
+selected_icon: {
+value: "fas fa-check-circle",
+library: "fa-solid"
+},
+_id: "edfcaf3",
+link: {
+url: "",
+is_external: "",
+nofollow: "",
+custom_attributes: ""
+}
+},
+{
+text: "Pode ajudar a Clarear Manchas",
+selected_icon: {
+value: "fas fa-check-circle",
+library: "fa-solid"
+},
+_id: "17f00b1",
+link: {
+url: "",
+is_external: "",
+nofollow: "",
+custom_attributes: ""
+}
+},
+{
+text: "Auxilia melhorando a Elasticidade da Pele",
+selected_icon: {
+value: "fas fa-check-circle",
+library: "fa-solid"
+},
+_id: "88f3642",
+link: {
+url: "",
+is_external: "",
+nofollow: "",
+custom_attributes: ""
+}
+}
+],
+text_color: "#FFFFFF",
+icon_typography_typography: "custom",
+icon_typography_font_family: "Lato",
+icon_typography_font_size: {
+unit: "px",
+size: 19,
+sizes: []
+},
+icon_typography_font_weight: "600",
+icon_size: {
+unit: "px",
+size: 18,
+sizes: []
+},
+space_between_mobile: {
+unit: "px",
+size: 10,
+sizes: []
+},
+icon_typography_line_height_tablet: {
+unit: "em",
+size: 1.2,
+sizes: []
+},
+space_between: {
+unit: "px",
+size: 11,
+sizes: []
+},
+__globals__: {
+icon_color: "",
+text_color: ""
+},
+space_between_tablet: {
+unit: "px",
+size: 11,
+sizes: []
+},
+icon_align: "left",
+icon_color: "#FFFFFF",
+_ha_condition_list: [
+{
+_id: "b5ba4f1",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+icon_self_align: "center",
+icon_typography_font_size_tablet: {
+unit: "px",
+size: 20,
+sizes: []
+},
+icon_typography_font_size_mobile: {
+unit: "px",
+size: 16,
+sizes: []
+},
+icon_typography_line_height: {
+unit: "em",
+size: 1.1,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1062,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-771.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "icon-list",
+elType: "widget"
+},
+{
+id: "520147cc",
+settings: {
+space: {
+unit: "px",
+size: 25,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "467ff25",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1063,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-772.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "spacer",
+elType: "widget"
+}
+],
+isInner: true,
+elType: "column"
+},
+{
+id: "2bf581d1",
+settings: {
+_column_size: 50,
+_inline_size: null,
+content_position: "center",
+_ha_condition_list: [
+{
+_id: "36319c0",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+_inline_size_tablet: 40,
+pafe_tooltip_content_image: {
+id: 1066,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-775.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "41ae0196",
+settings: {
+image: {
+id: 492,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/Design-sem-nome-15-1-1.png"
+},
+pafe_tooltip_content_image: {
+id: 1065,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-774.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image",
+elType: "widget"
+}
+],
+isInner: true,
+elType: "column"
+}
+],
+isInner: true,
+elType: "section"
+},
+{
+id: "6ad242a0",
+settings: {
+text: "EU QUERO ",
+align: "center",
+selected_icon: {
+value: "fas fa-heart",
+library: "fa-solid"
+},
+icon_indent: {
+unit: "px",
+size: 12,
+sizes: []
+},
+typography_typography: "custom",
+typography_font_family: "Lato",
+typography_font_size: {
+unit: "px",
+size: 18,
+sizes: []
+},
+typography_font_weight: "600",
+button_background_hover_color: "#038F58",
+border_radius: {
+unit: "px",
+top: "5",
+right: "5",
+bottom: "5",
+left: "5",
+isLinked: true
+},
+text_padding: {
+unit: "px",
+top: "20",
+right: "40",
+bottom: "20",
+left: "40",
+isLinked: false
+},
+link: {
+url: "#preco",
+is_external: "",
+nofollow: "",
+custom_attributes: ""
+},
+align_tablet: "left",
+button_box_shadow_box_shadow: {
+horizontal: -10,
+vertical: 12,
+blur: 16,
+spread: -5,
+color: "rgba(0, 0, 0, 0.43)"
+},
+text_padding_tablet: {
+unit: "px",
+top: "20",
+right: "20",
+bottom: "20",
+left: "20",
+isLinked: true
+},
+__globals__: {
+background_color: "",
+button_text_color: "",
+button_background_hover_color: ""
+},
+background_color: "#00AC69",
+button_text_color: "#FFFFFF",
+hover_color: "#FFFFFF",
+text_padding_mobile: {
+unit: "px",
+top: "15",
+right: "30",
+bottom: "15",
+left: "30",
+isLinked: false
+},
+_ha_condition_list: [
+{
+_id: "d59d244",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+typography_font_size_mobile: {
+unit: "px",
+size: 17,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1069,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-779.png"
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+button_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+button_background_hover_slideshow_gallery: [],
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "button",
+elType: "widget"
+},
+{
+id: "3f78a10b",
+settings: {
+icon_list: [
+{
+text: " Compra 100% Segura e Satisfação Garantida!",
+selected_icon: {
+value: "fas fa-lock",
+library: "fa-solid"
+},
+_id: "0a676fd",
+link: {
+url: "",
+is_external: "",
+nofollow: "",
+custom_attributes: ""
+}
+}
+],
+icon_color: "#000000",
+text_color: "#000000",
+icon_typography_typography: "custom",
+icon_typography_font_family: "Lato",
+icon_typography_font_size: {
+unit: "px",
+size: 14,
+sizes: []
+},
+icon_typography_font_weight: "400",
+_ha_condition_list: [
+{
+_id: "df558a9",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+icon_align: "center",
+pafe_tooltip_content_image: {
+id: 1070,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-780.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "icon-list",
+elType: "widget"
+},
+{
+id: "5a2fa86f",
+settings: {
+_ha_condition_list: [
+{
+_id: "fa4da14",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1071,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-782.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "spacer",
+elType: "widget"
+}
+],
+isInner: false,
+elType: "column"
+}
+],
+isInner: false,
+elType: "section"
+},
+{
+id: "e31cfc3",
+settings: {
+background_background: "gradient",
+background_color: "#9E827C",
+_ha_condition_list: [
+{
+_id: "8edb94b",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+shape_divider_bottom: "curve",
+shape_divider_bottom_width: {
+unit: "%",
+size: 135,
+sizes: []
+},
+shape_divider_bottom_height: {
+unit: "px",
+size: 150,
+sizes: []
+},
+shape_divider_bottom_negative: "yes",
+shape_divider_bottom_height_mobile: {
+unit: "px",
+size: 41,
+sizes: []
+},
+jet_parallax_layout_list: [
+{
+jet_parallax_layout_image: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_tablet: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_mobile: {
+url: "",
+id: ""
+},
+jet_parallax_layout_speed: {
+unit: "%",
+size: 50,
+sizes: []
+},
+jet_parallax_layout_type: "scroll",
+jet_parallax_layout_direction: "1",
+jet_parallax_layout_fx_direction: "fade-in",
+jet_parallax_layout_z_index: "",
+jet_parallax_layout_bg_x: 50,
+jet_parallax_layout_bg_y: 50,
+jet_parallax_layout_bg_size: "auto",
+jet_parallax_layout_animation_prop: "transform",
+jet_parallax_layout_on: [
+"desktop",
+"tablet"
+],
+_id: "c35a1a9"
+}
+],
+border_border: "none",
+background_color_stop: {
+unit: "%",
+size: 63,
+sizes: []
+},
+background_color_b: "#FFEABA",
+pafe_tooltip_content_image: {
+id: 1100,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-813.png"
+},
+pafe_particles_image: {
+id: 1101,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-814.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "69ca3d8",
+settings: {
+_column_size: 100,
+_inline_size: null,
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [],
+isInner: false,
+elType: "column"
+}
+],
+isInner: false,
+elType: "section"
+},
+{
+id: "2d87aa23",
+settings: {
+shape_divider_bottom: "curve",
+shape_divider_bottom_color: "#FFEABA",
+shape_divider_bottom_width: {
+unit: "%",
+size: 135,
+sizes: []
+},
+shape_divider_bottom_height: {
+unit: "px",
+size: 150,
+sizes: []
+},
+shape_divider_bottom_negative: "yes",
+_ha_condition_list: [
+{
+_id: "db31bcb",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+shape_divider_bottom_height_mobile: {
+unit: "px",
+size: 60,
+sizes: []
+},
+jet_parallax_layout_list: [
+{
+jet_parallax_layout_image: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_tablet: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_mobile: {
+url: "",
+id: ""
+},
+jet_parallax_layout_speed: {
+unit: "%",
+size: 50,
+sizes: []
+},
+jet_parallax_layout_type: "scroll",
+jet_parallax_layout_direction: "1",
+jet_parallax_layout_fx_direction: "fade-in",
+jet_parallax_layout_z_index: "",
+jet_parallax_layout_bg_x: 50,
+jet_parallax_layout_bg_y: 50,
+jet_parallax_layout_bg_size: "auto",
+jet_parallax_layout_animation_prop: "transform",
+jet_parallax_layout_on: [
+"desktop",
+"tablet"
+],
+_id: "6d478bc"
+}
+],
+pafe_tooltip_content_image: {
+id: 1124,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-837.png"
+},
+pafe_particles_image: {
+id: 1125,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-838.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "19d26f0e",
+settings: {
+_column_size: 100,
+_inline_size: null,
+_ha_condition_list: [
+{
+_id: "ae035e3",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1123,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-836.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "efd7bf6",
+settings: {
+_ha_condition_list: [
+{
+_id: "733863a",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1102,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-815.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "spacer",
+elType: "widget"
+},
+{
+id: "609d0c7c",
+settings: {
+title: "Qual segredo da nossa fórmula?",
+align: "center",
+title_color: "#9E827C",
+typography_typography: "custom",
+typography_font_family: "Montserrat",
+typography_font_size: {
+unit: "px",
+size: 35,
+sizes: []
+},
+typography_font_weight: "800",
+pafe_tooltip_content_image: {
+id: "754",
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-292-1.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "heading",
+elType: "widget"
+},
+{
+id: "3c092d0b",
+settings: {
+structure: "20",
+pafe_tooltip_content_image: {
+id: 1105,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-818.png"
+},
+pafe_particles_image: {
+id: 1106,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-819.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "165beab1",
+settings: {
+_column_size: 50,
+_inline_size: null,
+pafe_tooltip_content_image: {
+id: 1103,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-816.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "67a4b06f",
+settings: {
+image: {
+id: 494,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/img2-min-2.jpg"
+},
+pafe_tooltip_content_image: {
+id: "756",
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-296-1.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image",
+elType: "widget"
+}
+],
+isInner: true,
+elType: "column"
+},
+{
+id: "256e8d05",
+settings: {
+_column_size: 50,
+_inline_size: null,
+pafe_tooltip_content_image: {
+id: 1104,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-817.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "7886fa17",
+settings: {
+editor: "<p>A exclusiva tecnologia <b><u>AMERICANA</u></b> de aplicação sublingual proporciona uma absorção rápida e eficaz por meio da glândula que temos sob a língua, nela vasos que acessam diretamente a corrente sanguínea absorvem rapidamente seu conteúdo, garantindo até 97% de absorção dos ativos da composição.</p>",
+align: "center",
+text_color: "#9E827C",
+typography_typography: "custom",
+typography_font_family: "Nunito",
+typography_font_weight: "600",
+typography_line_height: {
+unit: "px",
+size: 24,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: "758",
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-304-1.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "text-editor",
+elType: "widget"
+}
+],
+isInner: true,
+elType: "column"
+}
+],
+isInner: true,
+elType: "section"
+},
+{
+id: "651eb374",
+settings: {
+space: {
+unit: "px",
+size: 40,
+sizes: []
+},
+space_mobile: {
+unit: "px",
+size: 25,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1107,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-820.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "spacer",
+elType: "widget"
+},
+{
+id: "12382f10",
+settings: {
+title: "Desenvolvida e Recomendada por especialistas!",
+align: "center",
+title_color: "#9E827C",
+typography_typography: "custom",
+typography_font_family: "Montserrat",
+typography_font_size: {
+unit: "px",
+size: 35,
+sizes: []
+},
+typography_font_weight: "800",
+pafe_tooltip_content_image: {
+id: "763",
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-322-1.png"
+},
+typography_font_size_mobile: {
+unit: "px",
+size: 30,
+sizes: []
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "heading",
+elType: "widget"
+},
+{
+id: "5a852007",
+settings: {
+space: {
+unit: "px",
+size: 30,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "19e9a4a",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1108,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-821.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "spacer",
+elType: "widget"
+},
+{
+id: "3816d6f4",
+settings: {
+structure: "50",
+_ha_condition_list: [
+{
+_id: "1a0bf3a",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+jet_parallax_layout_list: [
+{
+jet_parallax_layout_image: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_tablet: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_mobile: {
+url: "",
+id: ""
+},
+jet_parallax_layout_speed: {
+unit: "%",
+size: 50,
+sizes: []
+},
+jet_parallax_layout_type: "scroll",
+jet_parallax_layout_direction: "1",
+jet_parallax_layout_fx_direction: "fade-in",
+jet_parallax_layout_z_index: "",
+jet_parallax_layout_bg_x: 50,
+jet_parallax_layout_bg_y: 50,
+jet_parallax_layout_bg_size: "auto",
+jet_parallax_layout_animation_prop: "transform",
+jet_parallax_layout_on: [
+"desktop",
+"tablet"
+],
+_id: "5f07b3d"
+}
+],
+pafe_tooltip_content_image: {
+id: 1117,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-830.png"
+},
+pafe_particles_image: {
+id: 1118,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-831.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "434391b0",
+settings: {
+_column_size: 20,
+_inline_size: null,
+_ha_condition_list: [
+{
+_id: "4a549f8",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1110,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-823.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "502e0b88",
+settings: {
+image: {
+id: 495,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/Design-sem-nome-18-1.png"
+},
+title_text: "Vitamina K2",
+description_text: " ",
+image_size: {
+unit: "%",
+size: 40,
+sizes: []
+},
+image_border_radius: {
+unit: "px",
+size: 100,
+sizes: []
+},
+text_align: "center",
+title_color: "#9E827C",
+title_typography_typography: "custom",
+title_typography_font_family: "Lato",
+title_typography_font_size: {
+unit: "px",
+size: 22,
+sizes: []
+},
+title_typography_font_weight: "600",
+description_color: "#9E827C",
+description_typography_typography: "custom",
+description_typography_font_family: "Lato",
+description_typography_font_size: {
+unit: "px",
+size: 17,
+sizes: []
+},
+description_typography_font_weight: "400",
+description_typography_line_height: {
+unit: "em",
+size: 1.2,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "2d73285",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+title_bottom_space: {
+unit: "px",
+size: 10,
+sizes: []
+},
+title_typography_line_height: {
+unit: "em",
+size: 1.1,
+sizes: []
+},
+thumbnail_size: "large",
+pafe_tooltip_content_image: {
+id: 1109,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-822.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image-box",
+elType: "widget"
+}
+],
+isInner: true,
+elType: "column"
+},
+{
+id: "3b6ef7f8",
+settings: {
+_column_size: 20,
+_inline_size: null,
+pafe_tooltip_content_image: {
+id: "773",
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-342-1.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "c5d8ec0",
+settings: {
+image: {
+id: 496,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/images-1.jpeg"
+},
+space: {
+unit: "%",
+size: 55,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: "770",
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-332-1.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image",
+elType: "widget"
+},
+{
+id: "711b8033",
+settings: {
+title: "Resveratrol",
+align: "center",
+title_color: "#9E827C",
+typography_typography: "custom",
+typography_font_family: "Montserrat",
+typography_font_size: {
+unit: "px",
+size: 20,
+sizes: []
+},
+typography_font_weight: "700",
+text_stroke_text_stroke_type: "yes",
+pafe_tooltip_content_image: {
+id: "771",
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-333-1.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "heading",
+elType: "widget"
+},
+{
+id: "1ae63d92",
+settings: {
+editor: "",
+align: "center",
+text_color: "#9E827C",
+typography_typography: "custom",
+typography_font_family: "Nunito",
+typography_font_weight: "500",
+typography_line_height: {
+unit: "px",
+size: 20,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: "772",
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-339-1.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "text-editor",
+elType: "widget"
+}
+],
+isInner: true,
+elType: "column"
+},
+{
+id: "6633340c",
+settings: {
+_column_size: 20,
+_inline_size: null,
+_ha_condition_list: [
+{
+_id: "4a549f8",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1112,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-825.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "56b86e04",
+settings: {
+image: {
+id: 497,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/istockphoto-1089102820-612x612-1-1.jpeg"
+},
+title_text: "Ácido Hialurônico",
+description_text: "",
+image_size: {
+unit: "%",
+size: 40,
+sizes: []
+},
+image_border_radius: {
+unit: "px",
+size: 100,
+sizes: []
+},
+text_align: "center",
+title_color: "#9E827C",
+title_typography_typography: "custom",
+title_typography_font_family: "Lato",
+title_typography_font_size: {
+unit: "px",
+size: 22,
+sizes: []
+},
+title_typography_font_weight: "600",
+description_color: "#9E827C",
+description_typography_typography: "custom",
+description_typography_font_family: "Lato",
+description_typography_font_size: {
+unit: "px",
+size: 17,
+sizes: []
+},
+description_typography_font_weight: "400",
+description_typography_line_height: {
+unit: "em",
+size: 1.2,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "2d73285",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+title_bottom_space: {
+unit: "px",
+size: 10,
+sizes: []
+},
+title_typography_line_height: {
+unit: "em",
+size: 1.1,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1111,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-824.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image-box",
+elType: "widget"
+}
+],
+isInner: true,
+elType: "column"
+},
+{
+id: "6d9e8e4b",
+settings: {
+_column_size: 20,
+_inline_size: null,
+_ha_condition_list: [
+{
+_id: "8a39756",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1114,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-827.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "52dd6745",
+settings: {
+image: {
+id: 498,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/Design-sem-nome-16-1-1.png"
+},
+title_text: "Colágeno Verisol®",
+description_text: "",
+image_size: {
+unit: "%",
+size: 40,
+sizes: []
+},
+image_border_radius: {
+unit: "px",
+size: 100,
+sizes: []
+},
+text_align: "center",
+title_color: "#9E827C",
+title_typography_typography: "custom",
+title_typography_font_family: "Lato",
+title_typography_font_size: {
+unit: "px",
+size: 22,
+sizes: []
+},
+title_typography_font_weight: "600",
+description_color: "#9E827C",
+description_typography_typography: "custom",
+description_typography_font_family: "Lato",
+description_typography_font_size: {
+unit: "px",
+size: 17,
+sizes: []
+},
+description_typography_font_weight: "400",
+description_typography_line_height: {
+unit: "em",
+size: 1.2,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "2d73285",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+title_bottom_space: {
+unit: "px",
+size: 10,
+sizes: []
+},
+title_typography_line_height: {
+unit: "em",
+size: 1.1,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1113,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-826.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image-box",
+elType: "widget"
+}
+],
+isInner: true,
+elType: "column"
+},
+{
+id: "f1d300c",
+settings: {
+_column_size: 20,
+_inline_size: null,
+text_align: "center",
+_ha_condition_list: [
+{
+_id: "2d73285",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1116,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-829.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "6a855c87",
+settings: {
+image: {
+id: 499,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/retinol-1.png"
+},
+title_text: "Retinol",
+description_text: "",
+image_size: {
+unit: "%",
+size: 40,
+sizes: []
+},
+image_border_radius: {
+unit: "px",
+size: 100,
+sizes: []
+},
+text_align: "center",
+title_color: "#9E827C",
+title_typography_typography: "custom",
+title_typography_font_family: "Lato",
+title_typography_font_size: {
+unit: "px",
+size: 22,
+sizes: []
+},
+title_typography_font_weight: "600",
+description_color: "#9E827C",
+description_typography_typography: "custom",
+description_typography_font_family: "Lato",
+description_typography_font_size: {
+unit: "px",
+size: 17,
+sizes: []
+},
+description_typography_font_weight: "400",
+description_typography_line_height: {
+unit: "em",
+size: 1.2,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "2d73285",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+title_bottom_space: {
+unit: "px",
+size: 10,
+sizes: []
+},
+title_typography_line_height: {
+unit: "em",
+size: 1.1,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1115,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-828.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image-box",
+elType: "widget"
+}
+],
+isInner: true,
+elType: "column"
+}
+],
+isInner: true,
+elType: "section"
+},
+{
+id: "2e921728",
+settings: {
+_ha_condition_list: [
+{
+_id: "733863a",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+space: {
+unit: "px",
+size: 25,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1119,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-832.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "spacer",
+elType: "widget"
+},
+{
+id: "590cbeb2",
+settings: {
+text: "EU QUERO ",
+align: "center",
+selected_icon: {
+value: "fas fa-heart",
+library: "fa-solid"
+},
+icon_indent: {
+unit: "px",
+size: 12,
+sizes: []
+},
+typography_typography: "custom",
+typography_font_family: "Lato",
+typography_font_size: {
+unit: "px",
+size: 18,
+sizes: []
+},
+typography_font_weight: "600",
+button_background_hover_color: "#038F58",
+border_radius: {
+unit: "px",
+top: "5",
+right: "5",
+bottom: "5",
+left: "5",
+isLinked: true
+},
+text_padding: {
+unit: "px",
+top: "20",
+right: "40",
+bottom: "20",
+left: "40",
+isLinked: false
+},
+link: {
+url: "#preco",
+is_external: "",
+nofollow: "",
+custom_attributes: ""
+},
+align_tablet: "center",
+button_box_shadow_box_shadow: {
+horizontal: -10,
+vertical: 12,
+blur: 16,
+spread: -5,
+color: "rgba(0, 0, 0, 0.43)"
+},
+text_padding_tablet: {
+unit: "px",
+top: "20",
+right: "20",
+bottom: "20",
+left: "20",
+isLinked: true
+},
+__globals__: {
+background_color: "",
+button_text_color: "",
+button_background_hover_color: ""
+},
+button_text_color: "#FFFFFF",
+background_color: "#00AC69",
+_ha_condition_list: [
+{
+_id: "d59d244",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+align_mobile: "center",
+hover_color: "#FFFFFF",
+text_padding_mobile: {
+unit: "px",
+top: "20",
+right: "30",
+bottom: "20",
+left: "30",
+isLinked: false
+},
+typography_font_size_mobile: {
+unit: "px",
+size: 16,
+sizes: []
+},
+typography_letter_spacing_mobile: {
+unit: "px",
+size: -0.5,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1120,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-833.png"
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+button_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+button_background_hover_slideshow_gallery: [],
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "button",
+elType: "widget"
+},
+{
+id: "79f589a1",
+settings: {
+image: {
+id: 500,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/barra-segura2-1-1-1.png"
+},
+width: {
+unit: "%",
+size: 26,
+sizes: []
+},
+opacity: {
+unit: "px",
+size: 0.5,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "795fe35",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+width_tablet: {
+unit: "%",
+size: 35,
+sizes: []
+},
+width_mobile: {
+unit: "%",
+size: 75,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1121,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-834.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image",
+elType: "widget"
+},
+{
+id: "59df7a8b",
+settings: {
+_ha_condition_list: [
+{
+_id: "733863a",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1122,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-835.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "spacer",
+elType: "widget"
+}
+],
+isInner: false,
+elType: "column"
+}
+],
+isInner: false,
+elType: "section"
+},
+{
+id: "74d45e0a",
+settings: {
+background_background: "classic",
+shape_divider_top_width: {
+unit: "%",
+size: 258,
+sizes: []
+},
+shape_divider_top_height: {
+unit: "px",
+size: 550,
+sizes: []
+},
+shape_divider_bottom_width: {
+unit: "%",
+size: 300,
+sizes: []
+},
+shape_divider_bottom_height: {
+unit: "px",
+size: 500,
+sizes: []
+},
+shape_divider_bottom_negative: "yes",
+shape_divider_bottom_height_mobile: {
+unit: "px",
+size: 62,
+sizes: []
+},
+padding: {
+unit: "px",
+top: "0",
+right: "0",
+bottom: "0",
+left: "0",
+isLinked: false
+},
+background_gradient_angle: {
+unit: "deg",
+size: 140,
+sizes: []
+},
+__globals__: {
+background_color: "",
+background_color_b: ""
+},
+background_color: "#FFEABA",
+background_color_b: "#9C6B67",
+background_overlay_background: "classic",
+background_overlay_image: {
+id: 493,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/textura-linhas-topo-1-1.png"
+},
+background_overlay_opacity: {
+unit: "px",
+size: 1,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "aec24bb",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+shape_divider_top: "curve",
+shape_divider_top_color: "#FFEABA",
+shape_divider_top_width_mobile: {
+unit: "%",
+size: 300,
+sizes: []
+},
+shape_divider_top_height_mobile: {
+unit: "px",
+size: 406,
+sizes: []
+},
+jet_parallax_layout_list: [
+{
+jet_parallax_layout_image: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_tablet: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_mobile: {
+url: "",
+id: ""
+},
+jet_parallax_layout_speed: {
+unit: "%",
+size: 50,
+sizes: []
+},
+jet_parallax_layout_type: "scroll",
+jet_parallax_layout_direction: "1",
+jet_parallax_layout_fx_direction: "fade-in",
+jet_parallax_layout_z_index: "",
+jet_parallax_layout_bg_x: 50,
+jet_parallax_layout_bg_y: 50,
+jet_parallax_layout_bg_size: "auto",
+jet_parallax_layout_animation_prop: "transform",
+jet_parallax_layout_on: [
+"desktop",
+"tablet"
+],
+_id: "b232e72"
+}
+],
+pafe_tooltip_content_image: {
+id: 1131,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-844.png"
+},
+pafe_particles_image: {
+id: 1132,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-845.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "342ae80",
+settings: {
+_column_size: 100,
+_inline_size: null,
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [],
+isInner: false,
+elType: "column"
+}
+],
+isInner: false,
+elType: "section"
+},
+{
+id: "45452d96",
+settings: {
+background_background: "gradient",
+background_color: "#FFEABA",
+shape_divider_bottom: "curve",
+shape_divider_bottom_width: {
+unit: "%",
+size: 135,
+sizes: []
+},
+shape_divider_bottom_height: {
+unit: "px",
+size: 150,
+sizes: []
+},
+shape_divider_bottom_negative: "yes",
+_ha_condition_list: [
+{
+_id: "1f7fe25",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+shape_divider_bottom_width_mobile: {
+unit: "%",
+size: 300,
+sizes: []
+},
+shape_divider_bottom_height_mobile: {
+unit: "px",
+size: 400,
+sizes: []
+},
+jet_parallax_layout_list: [
+{
+jet_parallax_layout_image: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_tablet: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_mobile: {
+url: "",
+id: ""
+},
+jet_parallax_layout_speed: {
+unit: "%",
+size: 50,
+sizes: []
+},
+jet_parallax_layout_type: "scroll",
+jet_parallax_layout_direction: "1",
+jet_parallax_layout_fx_direction: "fade-in",
+jet_parallax_layout_z_index: "",
+jet_parallax_layout_bg_x: 50,
+jet_parallax_layout_bg_y: 50,
+jet_parallax_layout_bg_size: "auto",
+jet_parallax_layout_animation_prop: "transform",
+jet_parallax_layout_on: [
+"desktop",
+"tablet"
+],
+_id: "f851354"
+}
+],
+content_width: {
+unit: "px",
+size: 640,
+sizes: []
+},
+shape_divider_bottom_color: "#9E827C",
+background_color_b: "#FFEABA",
+pafe_tooltip_content_image: {
+id: 1142,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-855.png"
+},
+pafe_particles_image: {
+id: 1143,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-856.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "56e19396",
+settings: {
+_column_size: 100,
+_inline_size: null,
+_ha_condition_list: [
+{
+_id: "41ff6e0",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1141,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-854.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "409398f7",
+settings: {
+space: {
+unit: "px",
+size: 10,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "4d3aa8a",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1133,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-846.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "spacer",
+elType: "widget"
+},
+{
+id: "23ee1ca0",
+settings: {
+title: "<u>Satisfação<b> garantida</b></u> ou seu <u>dinheiro de volta</u> ",
+align: "center",
+title_color: "#525C67",
+typography_typography: "custom",
+typography_font_family: "Lato",
+typography_font_size: {
+unit: "px",
+size: 40,
+sizes: []
+},
+typography_font_weight: "600",
+typography_line_height: {
+unit: "em",
+size: 1.1,
+sizes: []
+},
+_animation_delay: 500,
+typography_font_size_mobile: {
+unit: "px",
+size: 30,
+sizes: []
+},
+typography_font_size_tablet: {
+unit: "px",
+size: 35,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "3ff26c2",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1134,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-847.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "heading",
+elType: "widget"
+},
+{
+id: "3f21ace6",
+settings: {
+image: {
+id: 501,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/garantia-90-dias-min-1-1.png"
+},
+width: {
+unit: "px",
+size: 225,
+sizes: []
+},
+width_tablet: {
+unit: "px",
+size: "",
+sizes: []
+},
+width_mobile: {
+unit: "px",
+size: 200,
+sizes: []
+},
+space: {
+unit: "%",
+size: 100,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1135,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-848.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image",
+elType: "widget"
+},
+{
+id: "2d9c69bb",
+settings: {
+title: "Confiamos tanto na eficácia do Rosa Amazônica que caso você utilize ele durante <b>90 dias </b>e não tenha resultados, devolvemos o seu dinheiro. Isso mesmo! <b>Resultados em 90 Dias com <u>REGENERE</u> ou <u>seu dinheiro de volta.</u></b>",
+align: "center",
+title_color: "#525C67",
+typography_typography: "custom",
+typography_font_family: "Lato",
+typography_font_size: {
+unit: "px",
+size: 20.8,
+sizes: []
+},
+typography_font_weight: "400",
+typography_line_height: {
+unit: "em",
+size: 1.3,
+sizes: []
+},
+__globals__: {
+title_color: ""
+},
+_ha_condition_list: [
+{
+_id: "283cfc3",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+typography_font_size_tablet: {
+unit: "px",
+size: 30,
+sizes: []
+},
+typography_font_size_mobile: {
+unit: "px",
+size: 19.2,
+sizes: []
+},
+_padding_tablet: {
+unit: "px",
+top: "0",
+right: "0",
+bottom: "0",
+left: "0",
+isLinked: false
+},
+pafe_tooltip_content_image: {
+id: 1136,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-849.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "heading",
+elType: "widget"
+},
+{
+id: "362580a2",
+settings: {
+_ha_condition_list: [
+{
+_id: "4246e45",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+space: {
+unit: "px",
+size: 25,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1137,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-850.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "spacer",
+elType: "widget"
+},
+{
+id: "26684328",
+settings: {
+text: "EU QUERO RESTAURAR A MINHA PELE",
+align: "center",
+selected_icon: {
+value: "fas fa-heart",
+library: "fa-solid"
+},
+icon_indent: {
+unit: "px",
+size: 12,
+sizes: []
+},
+typography_typography: "custom",
+typography_font_family: "Lato",
+typography_font_size: {
+unit: "px",
+size: 18,
+sizes: []
+},
+typography_font_weight: "600",
+button_background_hover_color: "#038F58",
+border_radius: {
+unit: "px",
+top: "5",
+right: "5",
+bottom: "5",
+left: "5",
+isLinked: true
+},
+text_padding: {
+unit: "px",
+top: "20",
+right: "40",
+bottom: "20",
+left: "40",
+isLinked: false
+},
+link: {
+url: "#preco",
+is_external: "",
+nofollow: "",
+custom_attributes: ""
+},
+align_tablet: "center",
+button_box_shadow_box_shadow: {
+horizontal: -10,
+vertical: 12,
+blur: 16,
+spread: -5,
+color: "rgba(0, 0, 0, 0.43)"
+},
+text_padding_tablet: {
+unit: "px",
+top: "20",
+right: "20",
+bottom: "20",
+left: "20",
+isLinked: true
+},
+__globals__: {
+background_color: "",
+button_text_color: "",
+button_background_hover_color: ""
+},
+button_text_color: "#FFFFFF",
+background_color: "#00AC69",
+_ha_condition_list: [
+{
+_id: "d59d244",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+align_mobile: "center",
+hover_color: "#FFFFFF",
+text_padding_mobile: {
+unit: "px",
+top: "20",
+right: "30",
+bottom: "20",
+left: "30",
+isLinked: false
+},
+typography_font_size_mobile: {
+unit: "px",
+size: 16,
+sizes: []
+},
+typography_letter_spacing_mobile: {
+unit: "px",
+size: -0.5,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1138,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-851.png"
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+button_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+button_background_hover_slideshow_gallery: [],
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "button",
+elType: "widget"
+},
+{
+id: "5a2da26c",
+settings: {
+image: {
+id: 502,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/barra-segura-2-white-1-1.png"
+},
+width: {
+unit: "%",
+size: 52,
+sizes: []
+},
+opacity: {
+unit: "px",
+size: 0.5,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "795fe35",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+width_tablet: {
+unit: "%",
+size: 35,
+sizes: []
+},
+width_mobile: {
+unit: "%",
+size: 75,
+sizes: []
+},
+css_filters_css_filter: "custom",
+css_filters_brightness: {
+unit: "px",
+size: 0,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1139,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-852.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image",
+elType: "widget"
+},
+{
+id: "329ec4dc",
+settings: {
+space: {
+unit: "px",
+size: 10,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "d6f0a93",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1140,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-853.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "spacer",
+elType: "widget"
+}
+],
+isInner: false,
+elType: "column"
+}
+],
+isInner: false,
+elType: "section"
+},
+{
+id: "78a19b39",
+settings: {
+background_background: "classic",
+shape_divider_bottom_width: {
+unit: "%",
+size: 135,
+sizes: []
+},
+shape_divider_bottom_height: {
+unit: "px",
+size: 150,
+sizes: []
+},
+shape_divider_bottom_negative: "yes",
+__globals__: {
+background_color: "",
+background_color_b: ""
+},
+_element_id: "preco",
+padding: {
+unit: "px",
+top: "0",
+right: "0",
+bottom: "0",
+left: "0",
+isLinked: false
+},
+background_gradient_angle: {
+unit: "deg",
+size: 140,
+sizes: []
+},
+shape_divider_top_color: "#F3F3F3",
+shape_divider_top_width_mobile: {
+unit: "%",
+size: 100,
+sizes: []
+},
+shape_divider_top_height: {
+unit: "px",
+size: 23,
+sizes: []
+},
+shape_divider_top_height_mobile: {
+unit: "px",
+size: 23,
+sizes: []
+},
+background_color: "#9E827C",
+background_color_b: "#9C6B67",
+background_overlay_background: "classic",
+background_overlay_opacity: {
+unit: "px",
+size: 1,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "a433064",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+shape_divider_bottom: "curve",
+shape_divider_bottom_height_tablet: {
+unit: "px",
+size: 47,
+sizes: []
+},
+jet_parallax_layout_list: [
+{
+jet_parallax_layout_image: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_tablet: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_mobile: {
+url: "",
+id: ""
+},
+jet_parallax_layout_speed: {
+unit: "%",
+size: 50,
+sizes: []
+},
+jet_parallax_layout_type: "scroll",
+jet_parallax_layout_direction: "1",
+jet_parallax_layout_fx_direction: "fade-in",
+jet_parallax_layout_z_index: "",
+jet_parallax_layout_bg_x: 50,
+jet_parallax_layout_bg_y: 50,
+jet_parallax_layout_bg_size: "auto",
+jet_parallax_layout_animation_prop: "transform",
+jet_parallax_layout_on: [
+"desktop",
+"tablet"
+],
+_id: "9e3304f"
+}
+],
+pafe_tooltip_content_image: {
+id: 1160,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-873.png"
+},
+pafe_particles_image: {
+id: 1161,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-874.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "453f6707",
+settings: {
+_column_size: 100,
+_inline_size: null,
+_ha_condition_list: [
+{
+_id: "c46612d",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1159,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-872.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "59803f31",
+settings: {
+space: {
+unit: "px",
+size: 30,
+sizes: []
+},
+space_tablet: {
+unit: "px",
+size: 0,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "55a1fc7",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1144,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-857.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "spacer",
+elType: "widget"
+},
+{
+id: "27e0c52",
+settings: {
+title: "Dúvidas sobre comprar pela internet? ",
+align: "center",
+title_color: "#FFFFFF",
+typography_typography: "custom",
+typography_font_family: "Lato",
+typography_font_size: {
+unit: "px",
+size: 40,
+sizes: []
+},
+typography_font_weight: "600",
+typography_line_height: {
+unit: "em",
+size: 1.3,
+sizes: []
+},
+_animation_delay: 500,
+typography_font_size_tablet: {
+unit: "px",
+size: 35,
+sizes: []
+},
+typography_font_size_mobile: {
+unit: "px",
+size: 30,
+sizes: []
+},
+_padding_tablet: {
+unit: "px",
+top: "8",
+right: "80",
+bottom: "0",
+left: "80",
+isLinked: false
+},
+_padding_mobile: {
+unit: "px",
+top: "0",
+right: "0",
+bottom: "0",
+left: "0",
+isLinked: false
+},
+_ha_condition_list: [
+{
+_id: "ab259dc",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1145,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-858.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "heading",
+elType: "widget"
+},
+{
+id: "37c99b",
+settings: {
+title: "Comprar o <b><u>REGENERE</u></b> é fácil, pratico e totalmente seguro.",
+align: "center",
+title_color: "#FFFFFF",
+typography_typography: "custom",
+typography_font_family: "Lato",
+typography_font_size: {
+unit: "px",
+size: 20,
+sizes: []
+},
+typography_font_weight: "400",
+typography_line_height: {
+unit: "em",
+size: 1.3,
+sizes: []
+},
+_animation_delay: 500,
+_ha_condition_list: [
+{
+_id: "85766ef",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1146,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-859.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "heading",
+elType: "widget"
+},
+{
+id: "7f8da19f",
+settings: {
+image: {
+id: 503,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/faixa-oferta-1-1-1.png"
+},
+width: {
+unit: "px",
+size: 500,
+sizes: []
+},
+width_tablet: {
+unit: "px",
+size: "",
+sizes: []
+},
+width_mobile: {
+unit: "px",
+size: "",
+sizes: []
+},
+space: {
+unit: "%",
+size: 100,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1147,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-860.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image",
+elType: "widget"
+},
+{
+id: "761c920c",
+settings: {
+title: "Recomendamos de <b>3 a 8 frascos para melhores resultados!</b> ",
+align: "center",
+title_color: "#FFFFFF",
+typography_typography: "custom",
+typography_font_family: "Lato",
+typography_font_size: {
+unit: "px",
+size: 20,
+sizes: []
+},
+typography_font_weight: "400",
+typography_line_height: {
+unit: "em",
+size: 1.3,
+sizes: []
+},
+_animation_delay: 500,
+_ha_condition_list: [
+{
+_id: "85766ef",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1148,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-861.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "heading",
+elType: "widget"
+},
+{
+id: "738760ef",
+settings: {
+structure: "40",
+padding: {
+unit: "px",
+top: "0",
+right: "0",
+bottom: "0",
+left: "0",
+isLinked: false
+},
+_ha_condition_list: [
+{
+_id: "3f502b6",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+jet_parallax_layout_list: [
+{
+jet_parallax_layout_image: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_tablet: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_mobile: {
+url: "",
+id: ""
+},
+jet_parallax_layout_speed: {
+unit: "%",
+size: 50,
+sizes: []
+},
+jet_parallax_layout_type: "scroll",
+jet_parallax_layout_direction: "1",
+jet_parallax_layout_fx_direction: "fade-in",
+jet_parallax_layout_z_index: "",
+jet_parallax_layout_bg_x: 50,
+jet_parallax_layout_bg_y: 50,
+jet_parallax_layout_bg_size: "auto",
+jet_parallax_layout_animation_prop: "transform",
+jet_parallax_layout_on: [
+"desktop",
+"tablet"
+],
+_id: "1137efb"
+}
+],
+pafe_tooltip_content_image: {
+id: 1152,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-865.png"
+},
+pafe_particles_image: {
+id: 1153,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-866.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "7e5bf06b",
+settings: {
+_column_size: 25,
+_inline_size: null,
+_ha_condition_list: [
+{
+_id: "f7369d8",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1149,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-862.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "23158bdc",
+settings: {
+image: {
+id: 504,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/12-potes-2.png"
+},
+link_to: "custom",
+link: {
+url: "https://ev.braip.com/checkout/pla229vd/che7dowl?split=12",
+is_external: "",
+nofollow: "",
+custom_attributes: ""
+},
+pafe_tooltip_content_image: {
+id: "822",
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-526-1.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image",
+elType: "widget"
+}
+],
+isInner: true,
+elType: "column"
+},
+{
+id: "73344860",
+settings: {
+_column_size: 25,
+_inline_size: null,
+_ha_condition_list: [
+{
+_id: "4cedbc2",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1150,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-863.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "96d7445",
+settings: {
+image: {
+id: 505,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/5-potes-2.png"
+},
+link_to: "custom",
+link: {
+url: "https://ev.braip.com/checkout/plakywq2/che7dowl/?split=12",
+is_external: "",
+nofollow: "",
+custom_attributes: ""
+},
+pafe_tooltip_content_image: {
+id: "825",
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-531-1.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image",
+elType: "widget"
+}
+],
+isInner: true,
+elType: "column"
+},
+{
+id: "4eb6bfab",
+settings: {
+_column_size: 25,
+_inline_size: null,
+_ha_condition_list: [
+{
+_id: "23c2c7b",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1151,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-864.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "274dfb52",
+settings: {
+image: {
+id: 506,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/3-Potes-2.png"
+},
+link_to: "custom",
+link: {
+url: "https://ev.braip.com/checkout/pla049xl/che7dowl?split=12",
+is_external: "",
+nofollow: "",
+custom_attributes: ""
+},
+pafe_tooltip_content_image: {
+id: "828",
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-538-1.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image",
+elType: "widget"
+}
+],
+isInner: true,
+elType: "column"
+},
+{
+id: "37b75600",
+settings: {
+_column_size: 25,
+_inline_size: null,
+pafe_tooltip_content_image: {
+id: "832",
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-545-1.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "43859184",
+settings: {
+image: {
+id: 507,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/1-Pote-2.png"
+},
+link_to: "custom",
+link: {
+url: "https://ev.braip.com/checkout/pla4l4dg/che7dowl?split=12",
+is_external: "",
+nofollow: "",
+custom_attributes: ""
+},
+pafe_tooltip_content_image: {
+id: "831",
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-543-1.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image",
+elType: "widget"
+}
+],
+isInner: true,
+elType: "column"
+}
+],
+isInner: true,
+elType: "section"
+},
+{
+id: "47f1730f",
+settings: {
+space: {
+unit: "px",
+size: 10,
+sizes: []
+},
+space_tablet: {
+unit: "px",
+size: 0,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "2b2febc",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1154,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-867.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "spacer",
+elType: "widget"
+},
+{
+id: "196f355a",
+settings: {
+icon_list: [
+{
+text: " Compra 100% Segura e Satisfação Garantida!",
+selected_icon: {
+value: "fas fa-lock",
+library: "fa-solid"
+},
+_id: "0a676fd",
+link: {
+url: "",
+is_external: "",
+nofollow: "",
+custom_attributes: ""
+}
+}
+],
+icon_color: "#FFFFFF",
+text_color: "#FFFFFF",
+icon_typography_typography: "custom",
+icon_typography_font_family: "Lato",
+icon_typography_font_size: {
+unit: "px",
+size: 14,
+sizes: []
+},
+icon_typography_font_weight: "400",
+_ha_condition_list: [
+{
+_id: "df558a9",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+icon_align: "center",
+pafe_tooltip_content_image: {
+id: 1156,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-869.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "icon-list",
+elType: "widget"
+},
+{
+id: "13d0ab8d",
+settings: {
+image: {
+id: 502,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/barra-segura-2-white-1-1.png"
+},
+width: {
+unit: "%",
+size: 26,
+sizes: []
+},
+opacity: {
+unit: "px",
+size: 0.5,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "795fe35",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+width_tablet: {
+unit: "%",
+size: 35,
+sizes: []
+},
+width_mobile: {
+unit: "%",
+size: 75,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1157,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-870.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image",
+elType: "widget"
+},
+{
+id: "3932cbee",
+settings: {
+space: {
+unit: "px",
+size: 30,
+sizes: []
+},
+space_tablet: {
+unit: "px",
+size: 0,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "4542470",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1158,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-871.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "spacer",
+elType: "widget"
+}
+],
+isInner: false,
+elType: "column"
+}
+],
+isInner: false,
+elType: "section"
+},
+{
+id: "d6c2989",
+settings: {
+_ha_condition_list: [
+{
+_id: "50aa0c7",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+jet_parallax_layout_list: [
+{
+jet_parallax_layout_image: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_tablet: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_mobile: {
+url: "",
+id: ""
+},
+jet_parallax_layout_speed: {
+unit: "%",
+size: 50,
+sizes: []
+},
+jet_parallax_layout_type: "scroll",
+jet_parallax_layout_direction: "1",
+jet_parallax_layout_fx_direction: "fade-in",
+jet_parallax_layout_z_index: "",
+jet_parallax_layout_bg_x: 50,
+jet_parallax_layout_bg_y: 50,
+jet_parallax_layout_bg_size: "auto",
+jet_parallax_layout_animation_prop: "transform",
+jet_parallax_layout_on: [
+"desktop",
+"tablet"
+],
+_id: "a66dd7a"
+}
+],
+pafe_tooltip_content_image: {
+id: 1182,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-895.png"
+},
+pafe_particles_image: {
+id: 1183,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-896.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "32f4f1f2",
+settings: {
+_column_size: 100,
+_inline_size: null,
+_ha_condition_list: [
+{
+_id: "6becbb8",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1181,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-894.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "321722c9",
+settings: {
+space: {
+unit: "px",
+size: 20,
+sizes: []
+},
+space_mobile: {
+unit: "px",
+size: 10,
+sizes: []
+},
+space_tablet: {
+unit: "px",
+size: 10,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "59fdbf4",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1162,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-875.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "spacer",
+elType: "widget"
+},
+{
+id: "77892d4c",
+settings: {
+title: "DÚVIDAS FREQUENTES",
+title_color: "#9E827C",
+typography_typography: "custom",
+typography_font_family: "Montserrat",
+typography_font_size: {
+unit: "px",
+size: 34,
+sizes: []
+},
+typography_font_weight: "700",
+typography_line_height: {
+unit: "em",
+size: 1.3,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "76582ad",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "02-02-2021 to 04-02-2021",
+_ha_condition_date: "02-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+align_tablet: "center",
+typography_font_size_tablet: {
+unit: "px",
+size: 30,
+sizes: []
+},
+typography_font_size_mobile: {
+unit: "px",
+size: 26,
+sizes: []
+},
+typography_line_height_tablet: {
+unit: "em",
+size: 1.3,
+sizes: []
+},
+align: "center",
+typography_text_transform: "uppercase",
+pafe_tooltip_content_image: {
+id: 1163,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-876.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "heading",
+elType: "widget"
+},
+{
+id: "52c9a9e5",
+settings: {
+title: "VEJAS AS PRINCIPAIS DÚVIDAS DE NOSSOS CLIENTES SOBRE O <b><u>REGENERE</u></b>",
+title_color: "#9E827C",
+typography_typography: "custom",
+typography_font_family: "Montserrat",
+typography_font_size: {
+unit: "px",
+size: 18,
+sizes: []
+},
+typography_font_weight: "400",
+typography_line_height: {
+unit: "em",
+size: 1.3,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "76582ad",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "02-02-2021 to 04-02-2021",
+_ha_condition_date: "02-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+align_tablet: "center",
+typography_font_size_tablet: {
+unit: "px",
+size: 30,
+sizes: []
+},
+typography_font_size_mobile: {
+unit: "px",
+size: 26,
+sizes: []
+},
+typography_line_height_tablet: {
+unit: "em",
+size: 1.3,
+sizes: []
+},
+align: "center",
+hide_mobile: "hidden-phone",
+pafe_tooltip_content_image: {
+id: 1164,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-877.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "heading",
+elType: "widget"
+},
+{
+id: "4428ce4b",
+settings: {
+structure: "20",
+_ha_condition_list: [
+{
+_id: "53cbd86",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "02-02-2021 to 04-02-2021",
+_ha_condition_date: "02-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+jet_parallax_layout_list: [
+{
+jet_parallax_layout_image: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_tablet: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_mobile: {
+url: "",
+id: ""
+},
+jet_parallax_layout_speed: {
+unit: "%",
+size: 50,
+sizes: []
+},
+jet_parallax_layout_type: "scroll",
+jet_parallax_layout_direction: "1",
+jet_parallax_layout_fx_direction: "fade-in",
+jet_parallax_layout_z_index: "",
+jet_parallax_layout_bg_x: 50,
+jet_parallax_layout_bg_y: 50,
+jet_parallax_layout_bg_size: "auto",
+jet_parallax_layout_animation_prop: "transform",
+jet_parallax_layout_on: [
+"desktop",
+"tablet"
+],
+_id: "e4f3a85"
+}
+],
+content_width: {
+unit: "px",
+size: 1024,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1169,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-882.png"
+},
+pafe_particles_image: {
+id: 1170,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-883.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "31a39f9e",
+settings: {
+_column_size: 50,
+_inline_size: null,
+_ha_condition_list: [
+{
+_id: "cd3e387",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "02-02-2021 to 04-02-2021",
+_ha_condition_date: "02-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1166,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-879.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "29ec5432",
+settings: {
+tabs: [
+{
+tab_title: " Quando vou ter resultados?",
+tab_content: "<p>É recomendando o uso por 3 meses consecutivos para obter os melhores resultados. No entanto, há relato de pessoas que já sentem uma boa diferença entre a 2 e 4 semanas.</p>",
+_id: "1e41b80"
+},
+{
+tab_title: "Como age o REGENERE?",
+tab_content: "<p>REGENERE age diretamente na célula da cútis, proporcionando um tratamento de dentro para fora, sendo 100% absorvido pelo organismo graças ao VERISOL presente em sua composição, atuando diretamente na produção de colágeno.</p>",
+_id: "2170d7c"
+},
+{
+tab_title: "COMO DEVO UTILIZAR O REGENERE?",
+tab_content: "<p>Tudo o que você precisará fazer é usar Regenere 2x ao dia. Sendo 6 gotas pela manhã e 6 gotas à tarde ou se preferia a noite , esta formula e ultra concentrada!.</p>",
+_id: "c4ad6ce"
+},
+{
+tab_title: " Já utilizo outro sistema de emagrecimento, posso utilizar esse nutracêutico em paralelo?",
+tab_content: "<p>Totalmente seguro, sem nenhuma contraindicação ou efeito colateral. No entanto, você não deve interromper o uso de remédios sem a autorização médica.</p>",
+_id: "756c099"
+}
+],
+selected_icon: {
+value: "fas fa-check-circle",
+library: "fa-solid"
+},
+selected_active_icon: {
+value: "fas fa-check-circle",
+library: "fa-solid"
+},
+border_color: "#FFFFFF00",
+space_between: {
+unit: "px",
+size: 15,
+sizes: []
+},
+box_shadow_box_shadow_type: "yes",
+box_shadow_box_shadow: {
+horizontal: 0,
+vertical: 0,
+blur: 23,
+spread: -5,
+color: "rgba(0, 0, 0, 0.3)"
+},
+title_background: "#9E827C",
+title_color: "#FFFFFF",
+title_typography_typography: "custom",
+title_typography_font_family: "Montserrat",
+title_typography_font_size: {
+unit: "px",
+size: 18,
+sizes: []
+},
+title_typography_font_weight: "400",
+title_typography_line_height: {
+unit: "em",
+size: 1.3,
+sizes: []
+},
+title_padding: {
+unit: "px",
+top: "20",
+right: "20",
+bottom: "20",
+left: "20",
+isLinked: true
+},
+icon_color: "#FFFFFF",
+icon_space: {
+unit: "px",
+size: 15,
+sizes: []
+},
+content_typography_typography: "custom",
+content_typography_font_family: "Montserrat",
+content_typography_font_size: {
+unit: "px",
+size: 16,
+sizes: []
+},
+content_typography_font_weight: "400",
+_ha_condition_list: [
+{
+_id: "7bae19d",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "02-02-2021 to 04-02-2021",
+_ha_condition_date: "02-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+content_color: "#9E827C",
+tab_active_color: "#FFFFFF",
+pafe_tooltip_content_image: {
+id: 1165,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-878.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "toggle",
+elType: "widget"
+}
+],
+isInner: true,
+elType: "column"
+},
+{
+id: "6a395d7a",
+settings: {
+_column_size: 50,
+_inline_size: null,
+_ha_condition_list: [
+{
+_id: "f725cbd",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "02-02-2021 to 04-02-2021",
+_ha_condition_date: "02-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1168,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-881.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "32c828c7",
+settings: {
+tabs: [
+{
+tab_title: "REGENERE é aprovado pela ANVISA?",
+tab_content: "<p>Sim, o Regenere passou por rigorosos testes e foi aprovado pela ANVISA.</p>",
+_id: "1e41b80"
+},
+{
+tab_title: "Causa algum efeito colateral",
+tab_content: "<p>Não, o REGENERE não causa nenhum efeito colateral, pois ele é um produto a base de compostos naturais, que funciona como um suplemento<br />alimentar.</p>",
+_id: "2170d7c"
+},
+{
+tab_title: "COMO POSSO COMPRAR O REGENERE?",
+tab_content: "<p>Basta escolher o kit que mais combina com você. Regenere pode ser pago a vista, através de boleto bancário, ou através de cartão de crédito parcelado em até 12x.</p>",
+_id: "c4ad6ce"
+},
+{
+tab_title: "QUANTO TEMPO PARA O REGENERE FAZER EFEITO?",
+tab_content: "<p>É recomendando o uso por 3 meses consecutivos para obter os melhores resultados. No entanto, há relato de pessoas que já sentem uma boa diferença entre a 2 e 4 semanas.</p>",
+_id: "756c099"
+}
+],
+selected_icon: {
+value: "fas fa-check-circle",
+library: "fa-solid"
+},
+selected_active_icon: {
+value: "fas fa-check-circle",
+library: "fa-solid"
+},
+border_color: "#FFFFFF00",
+space_between: {
+unit: "px",
+size: 15,
+sizes: []
+},
+box_shadow_box_shadow_type: "yes",
+box_shadow_box_shadow: {
+horizontal: 0,
+vertical: 0,
+blur: 23,
+spread: -5,
+color: "rgba(0, 0, 0, 0.3)"
+},
+title_background: "#9E827C",
+title_color: "#FFFFFF",
+title_typography_typography: "custom",
+title_typography_font_family: "Montserrat",
+title_typography_font_size: {
+unit: "px",
+size: 18,
+sizes: []
+},
+title_typography_font_weight: "400",
+title_typography_line_height: {
+unit: "em",
+size: 1.3,
+sizes: []
+},
+title_padding: {
+unit: "px",
+top: "20",
+right: "20",
+bottom: "20",
+left: "20",
+isLinked: true
+},
+icon_color: "#FFFFFF",
+icon_space: {
+unit: "px",
+size: 15,
+sizes: []
+},
+content_typography_typography: "custom",
+content_typography_font_family: "Montserrat",
+content_typography_font_size: {
+unit: "px",
+size: 16,
+sizes: []
+},
+content_typography_font_weight: "400",
+_ha_condition_list: [
+{
+_id: "7bae19d",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "02-02-2021 to 04-02-2021",
+_ha_condition_date: "02-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+border_width: {
+unit: "px",
+size: 0,
+sizes: []
+},
+content_color: "#9E827C",
+tab_active_color: "#FFFFFF",
+pafe_tooltip_content_image: {
+id: 1167,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-880.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "toggle",
+elType: "widget"
+}
+],
+isInner: true,
+elType: "column"
+}
+],
+isInner: true,
+elType: "section"
+},
+{
+id: "51796400",
+settings: {
+space: {
+unit: "px",
+size: 10,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "417d55f",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1171,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-884.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "spacer",
+elType: "widget"
+},
+{
+id: "2e0ced20",
+settings: {
+text: "EU QUERO COMPRAR",
+align: "center",
+selected_icon: {
+value: "fas fa-check-double",
+library: "fa-solid"
+},
+icon_indent: {
+unit: "px",
+size: 12,
+sizes: []
+},
+typography_typography: "custom",
+typography_font_family: "Lato",
+typography_font_size: {
+unit: "px",
+size: 18,
+sizes: []
+},
+typography_font_weight: "600",
+button_background_hover_color: "#038F58",
+border_radius: {
+unit: "px",
+top: "5",
+right: "5",
+bottom: "5",
+left: "5",
+isLinked: true
+},
+text_padding: {
+unit: "px",
+top: "20",
+right: "40",
+bottom: "20",
+left: "40",
+isLinked: false
+},
+link: {
+url: "#preco",
+is_external: "",
+nofollow: "",
+custom_attributes: ""
+},
+align_tablet: "center",
+button_box_shadow_box_shadow: {
+horizontal: -10,
+vertical: 12,
+blur: 16,
+spread: -5,
+color: "rgba(0, 0, 0, 0.43)"
+},
+text_padding_tablet: {
+unit: "px",
+top: "20",
+right: "20",
+bottom: "20",
+left: "20",
+isLinked: true
+},
+__globals__: {
+background_color: "",
+button_text_color: "",
+button_background_hover_color: ""
+},
+button_text_color: "#FFFFFF",
+background_color: "#00AC69",
+_ha_condition_list: [
+{
+_id: "d59d244",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+align_mobile: "center",
+hover_color: "#FFFFFF",
+text_padding_mobile: {
+unit: "px",
+top: "20",
+right: "30",
+bottom: "20",
+left: "30",
+isLinked: false
+},
+typography_font_size_mobile: {
+unit: "px",
+size: 16,
+sizes: []
+},
+typography_letter_spacing_mobile: {
+unit: "px",
+size: -0.5,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1172,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-885.png"
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+button_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+button_background_hover_slideshow_gallery: [],
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "button",
+elType: "widget"
+},
+{
+id: "9d03b7a",
+settings: {
+image: {
+id: 500,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/barra-segura2-1-1-1.png"
+},
+width: {
+unit: "%",
+size: 26,
+sizes: []
+},
+opacity: {
+unit: "px",
+size: 0.5,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "795fe35",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+width_tablet: {
+unit: "%",
+size: 35,
+sizes: []
+},
+width_mobile: {
+unit: "%",
+size: 75,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1173,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-886.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image",
+elType: "widget"
+},
+{
+id: "1cdd6315",
+settings: {
+text: "Divisor",
+color: "#0000001A",
+gap: {
+unit: "px",
+size: 40,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "d6f0f7b",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1174,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-887.png"
+},
+icon: {
+value: "fas fa-star",
+library: "fa-solid"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "divider",
+elType: "widget"
+},
+{
+id: "14e027f4",
+settings: {
+image: {
+id: 508,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/whatsapp-1.svg"
+},
+width: {
+unit: "%",
+size: 10,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "fc228bb",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+width_mobile: {
+unit: "%",
+size: 25,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1175,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-888.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image",
+elType: "widget"
+},
+{
+id: "390b0322",
+settings: {
+title: "Que falar com uma de nossas atendentes?",
+align: "center",
+title_color: "#9E827C",
+typography_typography: "custom",
+typography_font_family: "Lato",
+typography_font_size: {
+unit: "px",
+size: 38,
+sizes: []
+},
+typography_font_weight: "600",
+typography_line_height: {
+unit: "em",
+size: 1.3,
+sizes: []
+},
+_animation_delay: 500,
+typography_font_size_mobile: {
+unit: "px",
+size: 30,
+sizes: []
+},
+typography_font_size_tablet: {
+unit: "px",
+size: 35,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "07a4c78",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+typography_line_height_mobile: {
+unit: "em",
+size: 1.1,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1176,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-889.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "heading",
+elType: "widget"
+},
+{
+id: "72b1b51d",
+settings: {
+title: "Se você possui dúvidas e quer falar direto com uma de nossas consultoras, disponibilizamos um Whatsapp Exclusivo. Para acessar clique no botão abaixo.",
+align: "center",
+typography_typography: "custom",
+typography_font_family: "Lato",
+typography_font_size: {
+unit: "px",
+size: 21,
+sizes: []
+},
+typography_font_weight: "400",
+typography_line_height: {
+unit: "em",
+size: 1.3,
+sizes: []
+},
+_animation_delay: 500,
+_padding: {
+unit: "px",
+top: "0",
+right: "100",
+bottom: "0",
+left: "100",
+isLinked: false
+},
+_padding_tablet: {
+unit: "px",
+top: "10",
+right: "10",
+bottom: "10",
+left: "10",
+isLinked: true
+},
+typography_font_size_tablet: {
+unit: "px",
+size: 19,
+sizes: []
+},
+typography_font_size_mobile: {
+unit: "px",
+size: 19,
+sizes: []
+},
+__globals__: {
+title_color: ""
+},
+title_color: "#9E827C",
+_ha_condition_list: [
+{
+_id: "b8c28e2",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1177,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-890.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "heading",
+elType: "widget"
+},
+{
+id: "ce925f2",
+settings: {
+text: "CHAMAR NO WHATSAPP",
+align: "center",
+selected_icon: {
+value: "fab fa-whatsapp",
+library: "fa-brands"
+},
+icon_indent: {
+unit: "px",
+size: 12,
+sizes: []
+},
+typography_typography: "custom",
+typography_font_family: "Lato",
+typography_font_size: {
+unit: "px",
+size: 18,
+sizes: []
+},
+typography_font_weight: "600",
+button_background_hover_color: "#038F58",
+border_radius: {
+unit: "px",
+top: "5",
+right: "5",
+bottom: "5",
+left: "5",
+isLinked: true
+},
+text_padding: {
+unit: "px",
+top: "20",
+right: "40",
+bottom: "20",
+left: "40",
+isLinked: false
+},
+link: {
+url: "https://api.whatsapp.com/send?phone=556493218370",
+is_external: "",
+nofollow: "",
+custom_attributes: ""
+},
+align_tablet: "center",
+button_box_shadow_box_shadow: {
+horizontal: -10,
+vertical: 12,
+blur: 16,
+spread: -5,
+color: "rgba(0, 0, 0, 0.43)"
+},
+text_padding_tablet: {
+unit: "px",
+top: "20",
+right: "20",
+bottom: "20",
+left: "20",
+isLinked: true
+},
+__globals__: {
+background_color: "",
+button_text_color: "",
+button_background_hover_color: ""
+},
+button_text_color: "#FFFFFF",
+background_color: "#00AC69",
+_ha_condition_list: [
+{
+_id: "d59d244",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+align_mobile: "center",
+hover_color: "#FFFFFF",
+text_padding_mobile: {
+unit: "px",
+top: "20",
+right: "30",
+bottom: "20",
+left: "30",
+isLinked: false
+},
+typography_font_size_mobile: {
+unit: "px",
+size: 16,
+sizes: []
+},
+typography_letter_spacing_mobile: {
+unit: "px",
+size: -0.5,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1178,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-891.png"
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+button_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+button_background_hover_slideshow_gallery: [],
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "button",
+elType: "widget"
+},
+{
+id: "7d157a5f",
+settings: {
+image: {
+id: 500,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/barra-segura2-1-1-1.png"
+},
+width: {
+unit: "%",
+size: 26,
+sizes: []
+},
+opacity: {
+unit: "px",
+size: 0.5,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "795fe35",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+width_tablet: {
+unit: "%",
+size: 35,
+sizes: []
+},
+width_mobile: {
+unit: "%",
+size: 75,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1179,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-892.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image",
+elType: "widget"
+},
+{
+id: "7272a5f8",
+settings: {
+_ha_condition_list: [
+{
+_id: "071f642",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1180,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-893.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "spacer",
+elType: "widget"
+}
+],
+isInner: false,
+elType: "column"
+}
+],
+isInner: false,
+elType: "section"
+},
+{
+id: "623531a6",
+settings: {
+background_background: "classic",
+background_color: "#FFEABA",
+padding: {
+unit: "px",
+top: "0",
+right: "0",
+bottom: "0",
+left: "0",
+isLinked: false
+},
+__globals__: {
+background_color: ""
+},
+_ha_condition_list: [
+{
+_id: "fdcfbdc",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+jet_parallax_layout_list: [
+{
+jet_parallax_layout_image: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_tablet: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_mobile: {
+url: "",
+id: ""
+},
+jet_parallax_layout_speed: {
+unit: "%",
+size: 50,
+sizes: []
+},
+jet_parallax_layout_type: "scroll",
+jet_parallax_layout_direction: "1",
+jet_parallax_layout_fx_direction: "fade-in",
+jet_parallax_layout_z_index: "",
+jet_parallax_layout_bg_x: 50,
+jet_parallax_layout_bg_y: 50,
+jet_parallax_layout_bg_size: "auto",
+jet_parallax_layout_animation_prop: "transform",
+jet_parallax_layout_on: [
+"desktop",
+"tablet"
+],
+_id: "c36129b"
+}
+],
+pafe_tooltip_content_image: {
+id: 1204,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-917.png"
+},
+pafe_particles_image: {
+id: 1205,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-918.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "94bc7c9",
+settings: {
+_column_size: 100,
+_inline_size: null,
+_ha_condition_list: [
+{
+_id: "ee1c45a",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1203,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-916.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "602f1a2e",
+settings: {
+space: {
+unit: "px",
+size: 20,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "13ce87e",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1184,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-897.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "spacer",
+elType: "widget"
+},
+{
+id: "52d6d15b",
+settings: {
+structure: "30",
+padding: {
+unit: "px",
+top: "0",
+right: "0",
+bottom: "0",
+left: "0",
+isLinked: false
+},
+_ha_condition_list: [
+{
+_id: "c9d8a68",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+jet_parallax_layout_list: [
+{
+jet_parallax_layout_image: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_tablet: {
+url: "",
+id: ""
+},
+jet_parallax_layout_image_mobile: {
+url: "",
+id: ""
+},
+jet_parallax_layout_speed: {
+unit: "%",
+size: 50,
+sizes: []
+},
+jet_parallax_layout_type: "scroll",
+jet_parallax_layout_direction: "1",
+jet_parallax_layout_fx_direction: "fade-in",
+jet_parallax_layout_z_index: "",
+jet_parallax_layout_bg_x: 50,
+jet_parallax_layout_bg_y: 50,
+jet_parallax_layout_bg_size: "auto",
+jet_parallax_layout_animation_prop: "transform",
+jet_parallax_layout_on: [
+"desktop",
+"tablet"
+],
+_id: "ba82dda"
+}
+],
+pafe_tooltip_content_image: {
+id: 1197,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-910.png"
+},
+pafe_particles_image: {
+id: 1198,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-911.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "58646a6a",
+settings: {
+_column_size: 33,
+_inline_size: null,
+_ha_condition_list: [
+{
+_id: "2d0b0b1",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1187,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-900.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "775090c6",
+settings: {
+image: {
+id: 491,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/Logo-3-1-2.png"
+},
+align: "center",
+width_tablet: {
+unit: "%",
+size: 46,
+sizes: []
+},
+width_mobile: {
+unit: "%",
+size: 55,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "b3fdbbf",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+width: {
+unit: "%",
+size: 50,
+sizes: []
+},
+image_size: "medium",
+pafe_tooltip_content_image: {
+id: 1185,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-898.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image",
+elType: "widget"
+},
+{
+id: "7ce9857e",
+settings: {
+image: {
+id: 509,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/animais-1-1-1.png"
+},
+opacity: {
+unit: "px",
+size: 0.5,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "675665e",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+width_tablet: {
+unit: "%",
+size: 35,
+sizes: []
+},
+width_mobile: {
+unit: "%",
+size: 65,
+sizes: []
+},
+width: {
+unit: "px",
+size: 220,
+sizes: []
+},
+space: {
+unit: "%",
+size: 100,
+sizes: []
+},
+image_size: "medium_large",
+css_filters_css_filter: "custom",
+css_filters_brightness: {
+unit: "px",
+size: 0,
+sizes: []
+},
+css_filters_contrast: {
+unit: "px",
+size: 200,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1186,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-899.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image",
+elType: "widget"
+},
+{
+id: "5b7d4bbb",
+settings: {
+editor: "<p>CNPJ:</p> <p>EMAIL/TELEFONE:</p> <p>ENDEREÇO:</p> <p>Este produto não se destina a diagnosticar, tratar, curar ou prevenir qualquer doença, os resultados podem variar de pessoa para pessoa, esta informação não constitui aconselhamento medico e não deve ser considerada como tal, consulte o seu medico antes de modificar o seu regime médico regular. Este artigo é um advertorial. Produto dispensado da obrigatoriedade de registro conforme RDC 240/2018.</p>",
+text_color: "#000000",
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "text-editor",
+elType: "widget"
+}
+],
+isInner: true,
+elType: "column"
+},
+{
+id: "7a9b82e8",
+settings: {
+_column_size: 33,
+_inline_size: null,
+_ha_condition_list: [
+{
+_id: "e76d6b3",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1191,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-904.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "33f11bbc",
+settings: {
+title: "LINKS",
+title_color: "#000000",
+typography_typography: "custom",
+typography_font_family: "Lato",
+typography_font_size: {
+unit: "px",
+size: 12,
+sizes: []
+},
+typography_font_weight: "600",
+_ha_condition_list: [
+{
+_id: "f34f430",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+typography_letter_spacing: {
+unit: "px",
+size: 1.5,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1188,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-901.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "heading",
+elType: "widget"
+},
+{
+id: "551eee83",
+settings: {
+icon_list: [
+{
+text: "Aviso Legal",
+selected_icon: {
+value: "",
+library: ""
+},
+link: {
+url: "/aviso-legal/",
+is_external: "",
+nofollow: "",
+custom_attributes: ""
+},
+_id: "1d1d7ad"
+},
+{
+text: "Rastrear pedido",
+selected_icon: {
+value: "",
+library: ""
+},
+link: {
+url: "pedidozz.com",
+is_external: "",
+nofollow: "",
+custom_attributes: ""
+},
+_id: "0673240"
+},
+{
+text: "Políticas de Privacidade",
+selected_icon: {
+value: "",
+library: ""
+},
+_id: "2631035",
+link: {
+url: "/politicas-de-privacidade/",
+is_external: "",
+nofollow: "",
+custom_attributes: ""
+}
+},
+{
+text: "Termos e Condições",
+selected_icon: {
+value: "",
+library: ""
+},
+link: {
+url: "/termos-de-uso/",
+is_external: "",
+nofollow: "",
+custom_attributes: ""
+},
+_id: "70986bf"
+},
+{
+_id: "7486a7b",
+text: "Artigos Científicos ",
+selected_icon: {
+value: "",
+library: ""
+},
+link: {
+url: "",
+is_external: "",
+nofollow: "",
+custom_attributes: ""
+}
+}
+],
+text_color: "#000000",
+icon_typography_typography: "custom",
+icon_typography_font_family: "Lato",
+icon_typography_font_size: {
+unit: "px",
+size: 16,
+sizes: []
+},
+icon_typography_font_weight: "400",
+_ha_condition_list: [
+{
+_id: "738a8ea",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1189,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-902.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "icon-list",
+elType: "widget"
+},
+{
+id: "7466d0d",
+settings: {
+image: {
+id: 510,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/download-1-e1675799027928-1.png"
+},
+image_size: "custom",
+align: "left",
+width: {
+unit: "px",
+size: 290,
+sizes: []
+},
+width_tablet: {
+unit: "px",
+size: "",
+sizes: []
+},
+width_mobile: {
+unit: "px",
+size: "",
+sizes: []
+},
+image_border_radius: {
+unit: "px",
+top: "10",
+right: "10",
+bottom: "10",
+left: "10",
+isLinked: true
+},
+pafe_tooltip_content_image: {
+id: 1190,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-903.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image",
+elType: "widget"
+}
+],
+isInner: true,
+elType: "column"
+},
+{
+id: "5aea4e58",
+settings: {
+_column_size: 33,
+_inline_size: null,
+_ha_condition_list: [
+{
+_id: "37656af",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1196,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-909.png"
+},
+background_image: {
+url: "",
+id: "",
+size: ""
+},
+background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_slideshow_gallery: [],
+background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_hover_slideshow_gallery: [],
+background_overlay_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_slideshow_gallery: [],
+background_overlay_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+background_overlay_hover_slideshow_gallery: []
+},
+elements: [
+{
+id: "730ae217",
+settings: {
+title: "FORMAS DE PAGAMENTO",
+title_color: "#000000",
+typography_typography: "custom",
+typography_font_family: "Lato",
+typography_font_size: {
+unit: "px",
+size: 12,
+sizes: []
+},
+typography_font_weight: "600",
+_ha_condition_list: [
+{
+_id: "f34f430",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+typography_letter_spacing: {
+unit: "px",
+size: 1.5,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1192,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-905.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "heading",
+elType: "widget"
+},
+{
+id: "2cb7ab0f",
+settings: {
+image: {
+id: 511,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/pagamento-new-2-1-1.png"
+},
+align: "left",
+_ha_condition_list: [
+{
+_id: "db6d272",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1193,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-906.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image",
+elType: "widget"
+},
+{
+id: "706e2014",
+settings: {
+title: "COMPRA 100% SEGURA",
+title_color: "#000000",
+typography_typography: "custom",
+typography_font_family: "Lato",
+typography_font_size: {
+unit: "px",
+size: 12,
+sizes: []
+},
+typography_font_weight: "600",
+_ha_condition_list: [
+{
+_id: "f34f430",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+typography_letter_spacing: {
+unit: "px",
+size: 1.5,
+sizes: []
+},
+pafe_tooltip_content_image: {
+id: 1194,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-907.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "heading",
+elType: "widget"
+},
+{
+id: "60adf6f5",
+settings: {
+image: {
+id: 512,
+url: "https://storeprosell.com/wp-content/uploads/2023/04/site-seguro-min-1-1-1.png"
+},
+align: "left",
+width: {
+unit: "%",
+size: 60,
+sizes: []
+},
+_margin: {
+unit: "px",
+top: "0",
+right: "0",
+bottom: "0",
+left: "0",
+isLinked: false
+},
+_background_color: "#FFFFFF",
+_ha_condition_list: [
+{
+_id: "bb60ef2",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1195,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-908.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "image",
+elType: "widget"
+}
+],
+isInner: true,
+elType: "column"
+}
+],
+isInner: true,
+elType: "section"
+},
+{
+id: "440307d6",
+settings: {
+space_mobile: {
+unit: "px",
+size: 20,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "262e184",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1199,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-912.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "spacer",
+elType: "widget"
+},
+{
+id: "2698e2ae",
+settings: {
+text: "Divisor",
+color: "#FFFFFF1A",
+_ha_condition_list: [
+{
+_id: "71f4857",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1200,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-913.png"
+},
+icon: {
+value: "fas fa-star",
+library: "fa-solid"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "divider",
+elType: "widget"
+},
+{
+id: "189aac9b",
+settings: {
+title: "",
+align: "center",
+title_color: "#000000",
+typography_typography: "custom",
+typography_font_family: "Lato",
+typography_font_size: {
+unit: "px",
+size: 14,
+sizes: []
+},
+typography_font_weight: "400",
+_ha_condition_list: [
+{
+_id: "5094c2e",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1201,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-914.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "heading",
+elType: "widget"
+},
+{
+id: "4933533d",
+settings: {
+space: {
+unit: "px",
+size: 30,
+sizes: []
+},
+_ha_condition_list: [
+{
+_id: "f1a6661",
+_ha_condition_key: "login_status",
+_ha_condition_operator: "is",
+_ha_condition_login_status: "login",
+_ha_condition_role: "subscriber",
+_ha_condition_operating_system: "mac_os",
+_ha_condition_browser: "chrome",
+_ha_condition_date_range: "17-02-2021 to 19-02-2021",
+_ha_condition_date: "17-02-2021",
+_ha_condition_time: "12:00",
+_ha_condition_day: "monday"
+}
+],
+pafe_tooltip_content_image: {
+id: 1202,
+url: "https://regenere.site/wp-content/uploads/2023/03/placeholder-915.png"
+},
+_background_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_slideshow_gallery: [],
+_background_hover_image: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_video_fallback: {
+url: "",
+id: "",
+size: ""
+},
+_background_hover_slideshow_gallery: [],
+_mask_image: {
+url: "",
+id: "",
+size: ""
+}
+},
+elements: [],
+isInner: false,
+widgetType: "spacer",
+elType: "widget"
+}
+],
+isInner: false,
+elType: "column"
+}
+],
+isInner: false,
+elType: "section"
+}
+],
+page_settings: {
+background_background: "classic",
+background_color: "#FFFFFF",
+custom_css: "div.v-separator {border-left: solid 1px GREEN; display:block; width:1px; height:5px;} ul.barra-itens {font-family:arial!important; padding:0; margin:0;} ul.barra-itens li {display: inline; float:left; padding:0 5px 0 5px; font-size:15px; font-weigh:bold;} ul.barra-itens li a {display:block;} ul.barra-itens li a:hover {} ul.barra-itens li a.g1 { color:#A80000; border-top:solid 3px ;} ul.barra-itens li a.ge {color:#3E831E;} ul.barra-itens li a.gshow {color:#FF7F00;} ul.barra-itens li a.gvideos {color:#005CEF;}",
+ha_grid_zindex: "1000"
+},
+version: "0.4",
+title: "pv-regenere",
+type: "page"
+}
